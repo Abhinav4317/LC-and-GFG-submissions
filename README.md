@@ -24,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1484-linked-list-in-binary-tree) |
+## Array
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
