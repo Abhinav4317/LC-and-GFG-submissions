@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0041-first-missing-positive) |
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
