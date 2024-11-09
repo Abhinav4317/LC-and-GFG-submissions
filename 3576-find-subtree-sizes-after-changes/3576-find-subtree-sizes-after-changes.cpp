@@ -1,43 +1,39 @@
 class Solution {
 public:
-    //TC:O(N * H); SC:O(N^2); H:Height of tree
-    vector<pair<int, int>> change; //{node, new_parent} Used to record the rearranged of edges
-    vector<int> adj[100000];  // Adjacency list for the tree
-    
-    void dfs(int node, int original, vector<int>& parent, string& s) { //Traverse upwards from original to node 0
-        if (s[original] == s[node]){
-            change.push_back({original, node}); //node is the new parent of orginal
-            return;
+    void dfs(int node,int p,vector<int> adj[],vector<vector<int>>& pos,vector<int>& parent,string& s,int n){
+        int idx=s[node]-'a';
+        if(pos[idx].size()>0){
+            parent[node]=pos[idx].back();
         }
-    
-        if (node == 0) return;
-    
-        dfs(parent[node], original, parent, s);
+        pos[idx].push_back(node);
+        for(auto it:adj[node]){
+            if(it==p) continue;
+            dfs(it,node,adj,pos,parent,s,n);
+        }
+        pos[idx].pop_back();
     }
-    
-    void countChildren(int i, vector<int>& ans) { //Counts no. of children of node i
-        for (auto child : adj[i]) {
-            countChildren(child, ans);
-            ans[i] += ans[child];
+    void dfs2(int node,int p,vector<int> adj2[],vector<int>& ans){
+        ans[node]=0;
+        for(auto it:adj2[node]){
+            if(it==p) continue;
+            dfs2(it,node,adj2,ans);
+            ans[node]+=ans[it]+1;
         }
     }
-    
     vector<int> findSubtreeSizes(vector<int>& parent, string s) {
-        int n = parent.size();
-        vector<int> res(n, 1);
-    
-        for (int i = 1; i < n; i++) {
-            dfs(parent[i], i, parent, s); //for each node, find the ancestor whose character is assigned is same as that of i
+        int n=parent.size();
+        vector<int> adj[n];
+        for(int i=1;i<n;i++){
+            adj[parent[i]].push_back(i);
         }
-    
-        for (auto itr : change) parent[itr.first] = itr.second; //Rearrange the edges
-    
-        for (int i = 1; i < n; i++){
-            adj[parent[i]].push_back(i); //construct the new graph
-        }
-        
-        countChildren(0, res);
-        
-        return res;
+        vector<vector<int>> pos(26);
+        dfs(0,-1,adj,pos,parent,s,n);
+        //for(int x:parent) cout<<x<<endl;
+        vector<int> ans(n);
+        vector<int> adj2[n];
+        for(int i=1;i<n;i++) adj2[parent[i]].push_back(i);
+        dfs2(0,-1,adj2,ans);
+        for(int i=0;i<n;i++) ans[i]++;
+        return ans;
     }
 };
