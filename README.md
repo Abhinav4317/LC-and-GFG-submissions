@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1197-parsing-a-boolean-expression) |
