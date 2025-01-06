@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0041-first-missing-positive) |
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Dynamic Programming
