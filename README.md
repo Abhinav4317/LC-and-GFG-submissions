@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0041-first-missing-positive) |
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
+| [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0686-repeated-string-match) |
+| [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0041-first-missing-positive) |
+| [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
