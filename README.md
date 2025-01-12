@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1197-parsing-a-boolean-expression) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Trie
 |  |
 | ------- |
