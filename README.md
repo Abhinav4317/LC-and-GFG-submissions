@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Brainteaser
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
