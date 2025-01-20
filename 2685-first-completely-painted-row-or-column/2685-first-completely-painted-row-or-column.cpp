@@ -17,6 +17,6 @@ public:
             row[r]--;col[c]--;
             if(row[r]==0||col[c]==0) return i;
         }
-        return n-1;
+        return m*n-1;//never executed
     }
 };
