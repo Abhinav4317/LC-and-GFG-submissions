@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0041-first-missing-positive) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
 | [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
