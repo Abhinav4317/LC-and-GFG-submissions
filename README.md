@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1484-linked-list-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1876-map-of-highest-peak) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
 | [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1876-map-of-highest-peak](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1876-map-of-highest-peak](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
