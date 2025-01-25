@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0282-expression-add-operators) |
+| [0556-next-greater-element-iii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0556-next-greater-element-iii) |
 | [0686-repeated-string-match](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0686-repeated-string-match) |
 | [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0282-expression-add-operators) |
+| [0556-next-greater-element-iii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0670-maximum-swap) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
