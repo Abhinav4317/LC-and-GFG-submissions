@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1876-map-of-highest-peak) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
