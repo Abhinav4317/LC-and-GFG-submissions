@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0854-making-a-large-island) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1558-course-schedule-iv) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0854-making-a-large-island) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1876-map-of-highest-peak) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
+| [0854-making-a-large-island](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1876-map-of-highest-peak](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1876-map-of-highest-peak) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0854-making-a-large-island) |
 | [1876-map-of-highest-peak](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
