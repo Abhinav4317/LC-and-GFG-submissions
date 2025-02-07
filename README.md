@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Recursion
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Stack
 |  |
 | ------- |
