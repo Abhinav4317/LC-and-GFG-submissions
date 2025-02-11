@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3447-clear-digits) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3447-clear-digits) |
 ## Stack
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1197-parsing-a-boolean-expression) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3447-clear-digits) |
 ## Trie
