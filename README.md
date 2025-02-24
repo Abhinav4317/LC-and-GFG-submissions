@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1484-linked-list-in-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Depth-First Search
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1876-map-of-highest-peak) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1558-course-schedule-iv](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
