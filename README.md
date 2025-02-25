@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1876-map-of-highest-peak](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0556-next-greater-element-iii) |
 | [0670-maximum-swap](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3771-select-k-disjoint-special-substrings) |
