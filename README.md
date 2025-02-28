@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0686-repeated-string-match) |
 | [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1170-shortest-common-supersequence](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1502-construct-k-palindrome-strings) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3587-maximum-points-tourist-can-earn) |
