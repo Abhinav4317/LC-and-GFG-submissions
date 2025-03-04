@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
