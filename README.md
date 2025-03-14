@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3763-separate-squares-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3763-separate-squares-i) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Bit Manipulation
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3587-maximum-points-tourist-can-earn](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Counting
 |  |
 | ------- |
