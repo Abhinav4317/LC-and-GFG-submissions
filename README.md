@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3763-separate-squares-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3763-separate-squares-i) |
+| [3785-find-the-number-of-copy-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3785-find-the-number-of-copy-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Binary Search
 |  |
 | ------- |
