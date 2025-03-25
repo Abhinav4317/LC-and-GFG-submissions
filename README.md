@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3763-separate-squares-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3763-separate-squares-i) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3785-find-the-number-of-copy-arrays) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Math
 |  |
