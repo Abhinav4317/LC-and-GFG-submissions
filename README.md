@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2792-neighboring-bitwise-xor) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2509-minimize-xor) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Sorting
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3785-find-the-number-of-copy-arrays) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1197-parsing-a-boolean-expression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3447-clear-digits) |
 ## Trie
 |  |
@@ -343,8 +348,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Queue
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
