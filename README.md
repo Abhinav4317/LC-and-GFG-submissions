@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0282-expression-add-operators) |
 | [0556-next-greater-element-iii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0556-next-greater-element-iii) |
 | [0686-repeated-string-match](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0686-repeated-string-match) |
+| [0768-partition-labels](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1170-shortest-common-supersequence) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
 | [0670-maximum-swap](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0041-first-missing-positive) |
+| [0768-partition-labels](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0952-word-subsets) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0556-next-greater-element-iii) |
+| [0768-partition-labels](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0768-partition-labels) |
 ## Topological Sort
 |  |
 | ------- |
