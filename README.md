@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2681-put-marbles-in-bags](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2509-minimize-xor) |
+| [2681-put-marbles-in-bags](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Sorting
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2681-put-marbles-in-bags](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2434-design-a-number-container-system) |
+| [2681-put-marbles-in-bags](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
