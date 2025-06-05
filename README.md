@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0038-count-and-say) |
+| [0091-decode-ways](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0282-expression-add-operators) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1170-shortest-common-supersequence) |
