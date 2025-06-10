@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Counting
 |  |
 | ------- |
