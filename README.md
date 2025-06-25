@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2107-find-unique-binary-string) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
