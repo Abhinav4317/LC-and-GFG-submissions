@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3905-partition-string](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3905-partition-string) |
 ## Greedy
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3905-partition-string](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3905-partition-string) |
 ## Recursion
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3447-clear-digits) |
+| [3905-partition-string](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3905-partition-string) |
 ## Stack
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3905-partition-string](https://github.com/Abhinav4317/LC-and-GFG-submissions/tree/master/3905-partition-string) |
 ## Graph
 |  |
 | ------- |
